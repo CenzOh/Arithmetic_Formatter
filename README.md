@@ -2,6 +2,8 @@
 
 [Repl.it Link for the final result](https://replit.com/@VincenzoMezzio/boilerplate-arithmetic-formatter#arithmetic_arranger.py)
 
+![Results](success.PNG)
+
 ### Assignment
 
 Students in primary school often arrange arithmetic problems vertically to make them easier to solve. For example, "235 + 52" becomes:
